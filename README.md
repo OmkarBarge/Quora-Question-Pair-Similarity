@@ -1,8 +1,4 @@
 # Quora-Question-Pair-Similarity
-
-<img src='https://github.com/OmkarBarge/Quora-Question-Pair-Similarity/blob/main/Screenshot%20(276).png'>
-
-
 1.1 Collaborating with a team of five members, I contributed to a project that involved comprehensive data cleaning, including handling null values
  and outliers. <br>
 1.2 Additionally, I utilized data visualization techniques to deliver meaningful insights from the dataset. I also performed text preprocessing tasks 
@@ -11,3 +7,9 @@
 1.4 My major focus was on model training, implementing model tracking using MLFlow, and orchestrating the workflow to ensure efficient and
  effective execution of the project. <br>
 Technologies : Machine Learning, NLP, MLOps
+
+
+<img src='https://github.com/OmkarBarge/Quora-Question-Pair-Similarity/blob/main/Screenshot%20(276).png'>
+
+
+
